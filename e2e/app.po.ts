@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class Angular4StepByStepPart01YourFirstComponentPage {
+export class ASpaceBetweenProjectPage {
   navigateTo() {
     return browser.get('/');
   }

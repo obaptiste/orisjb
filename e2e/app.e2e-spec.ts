@@ -1,10 +1,10 @@
-import { Angular4StepByStepPart01YourFirstComponentPage } from './app.po';
+import { ASpaceBetweenProjectPage } from './app.po';
 
 describe('angular4-step-by-step-part01-your-first-component App', () => {
-  let page: Angular4StepByStepPart01YourFirstComponentPage;
+  let page: ASpaceBetweenProjectPage;
 
   beforeEach(() => {
-    page = new Angular4StepByStepPart01YourFirstComponentPage();
+    page = new ASpaceBetweenProjectPage();
   });
 
   it('should display message saying app works', () => {
